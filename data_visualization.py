@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+
 # %matplotlib inline
 
 # ******* used to create stastics**********
